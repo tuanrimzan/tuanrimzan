@@ -34,7 +34,7 @@
 
 <p align="center">
     <a href="https://github.com/tuanrimzan/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rimzan Deen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tuanrimzan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rimzan Deen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tuanrimzan&theme=onedark_duo&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
@@ -43,10 +43,10 @@
 
 ## 📊 My Github Stats
 
-<a href="https://github.com/tuanrimzan/github-readme-stats"><img alt="Rimzan Deen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuanrimzan&show_icons=true&count_private=true&theme=black-ice&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/tuanrimzan/github-readme-stats"><img alt="Rimzan Deen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tuanrimzan&show_icons=true&count_private=true&theme=onedark_duo&hide_border=true&bg_color=0D1117" /></a>
 <br>
 <br>
-<a href="https://github.com/tuanrimzan/github-readme-stats"><img alt="Rimzan Deen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanrimzan&langs_count=8&count_private=true&layout=compact&theme=black-ice&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/tuanrimzan/github-readme-stats"><img alt="Rimzan Deen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanrimzan&langs_count=8&count_private=true&layout=compact&theme=onedark_duo&hide_border=true&bg_color=0D1117" /></a>
 <br>
 <br>
 <a href="https://github.com/tuanrimzan/github-readme-activity-graph"><img alt="Rimzan Deen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tuanrimzan&bg_color=0D1117&color=8A9dFF&line=01B285&point=BE5CFF&hide_border=true" /></a>
