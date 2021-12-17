@@ -49,7 +49,6 @@
 <a href="https://github.com/tuanrimzan/github-readme-stats"><img alt="Rimzan Deen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuanrimzan&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
 <br>
 <br>
-<a href="https://github.com/tuanrimzan/github-readme-activity-graph"><img alt="Rimzan Deen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tuanrimzan&bg_color=0D1117&color=8A9dFF&line=01B285&point=BE5CFF&hide_border=true" /></a>
 <br>
 <br>
 
